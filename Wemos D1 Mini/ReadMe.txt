@@ -1,0 +1,2 @@
+Setting up:
+  * install drivers
