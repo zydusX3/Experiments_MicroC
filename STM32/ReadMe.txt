@@ -1,1 +1,1 @@
-We ar going to see some example codes on STM32 bluepill module
+Lets Learn about Firmware Development in STM32F103C8T6 (BluePill)
